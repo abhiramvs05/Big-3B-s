@@ -4,6 +4,7 @@ analysis
 
 Portfolio project analyzing Brentford FC, Brighton & Hove Albion and AFC Bournemouth
 (the "Big 3B's") across three Premier League seasons (2022-23, 2023-24, 2024-25).
+
 ## Status: In progress
 
 ## Investigation A — Match Performance vs Title Contenders
